@@ -70,7 +70,7 @@ function App() {
 
   return (
     <>
-
+     
       <div className="top-bar">
         <div className="container d-flex justify-content-between align-items-center">
           <div className="top-name">
@@ -102,7 +102,7 @@ function App() {
         </div>
       </div>
 
-
+     
       <nav className="navbar navbar-expand-lg navbar-dark main-navbar sticky-top">
         <div className="container">
           <a className="navbar-brand logo" href="#home">
@@ -157,7 +157,7 @@ function App() {
         </div>
       </nav>
 
-
+     
       <section id="home" className="hero-section">
         <div
           id="heroCarousel"
@@ -292,7 +292,7 @@ function App() {
         </div>
       </section>
 
-
+      
       <section id="about" className="section about-section">
         <div className="container">
           <div className="section-heading">
@@ -359,7 +359,7 @@ function App() {
         </div>
       </section>
 
-
+     
       <section id="skills" className="section skills-section">
         <div className="container">
           <div className="section-heading">
@@ -394,7 +394,7 @@ function App() {
         </div>
       </section>
 
-
+      
       <section id="projects" className="section projects-section">
         <div className="container">
           <div className="section-heading">
@@ -430,7 +430,7 @@ function App() {
         </div>
       </section>
 
-
+      
       <section id="contact" className="section contact-section">
         <div className="container">
           <div className="section-heading">
@@ -532,7 +532,7 @@ function App() {
         </div>
       </section>
 
-
+      
       <footer className="footer">
         <div className="container text-center">
           <div className="footer-logo">
