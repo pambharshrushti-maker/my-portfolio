@@ -29,6 +29,12 @@ This is my personal **Web Developer Portfolio** where I showcase my:
 * ✅ Smooth Section Navigation
 * ✅ Mobile-Friendly Layout
 
+## 🎥 Project Demo Video
+
+Watch the complete project demo video here:
+
+👉 [🎬 Watch My Portfolio Demo Video](https://drive.google.com/file/d/1lJzzrXa8NkR0Hsp9k7c1QV2Raozp6qt6/view?usp=drive_link)
+
 ## 🛠️ Technologies Used
 
 * HTML5
@@ -145,7 +151,7 @@ npm install
 npm run dev
 ```
 
-The project will run on the local development server provided by Vite.
+The project will run on the local development server provided by **Vite**.
 
 ## 🔗 Connect With Me
 
@@ -178,17 +184,3 @@ This project is created for learning and portfolio purposes.
 ⭐ **If you like this project, don't forget to give it a star!**
 
 ### 💙 Thank You for Visiting My Portfolio!
-
-````
-
-આ `README.md` ને project ના **main folder** એટલે કે `my-portfolio` ની અંદર રાખજો.
-
-પછી GitHub પર upload કરવા માટે:
-
-```bash
-git add README.md
-git commit -m "Add README file"
-git push
-````
-
-જો `README.md` પહેલેથી GitHub પર છે, તો **જૂનું README replace કરીને આ નવું મૂકવું** વધુ સારું રહેશે.
